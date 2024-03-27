@@ -1,4 +1,6 @@
 import re
+
+
 def rabin_karp(pattern, text):
     global plagiat
     d = 256
