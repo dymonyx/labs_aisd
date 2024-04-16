@@ -37,6 +37,8 @@ def kmp(s, pattern, prefixes):
             i += 1
     return matches
 
+#check
+
 
 if __name__ == '__main__':
 
